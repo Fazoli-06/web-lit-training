@@ -1,7 +1,7 @@
 # Mozilla Web Literacy Training
 ## Sharing Your Work with Github!
 
-###This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training. I have created a repo to this repo as a part of web litteracy training (changed formatting).
+###This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training. This is a repo to a repo as a part of web litteracy training (changed formatting).
 
 ###Participants can fork this repo and then choose a project template to edit on their forked version.
 
