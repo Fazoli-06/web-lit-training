@@ -1,6 +1,6 @@
 <h1> My Bucket List
 
-<h2> <u>Family and friends</u>
+<h2> <ul>Family and friends</ul>
 <h3>  * <i>Save for kids' college education</i>
 <h3>  * ~~<i>Throw a surprise party for a loved one</i>~~
 
