@@ -1,7 +1,7 @@
 <h1> My Bucket List
 
 <h2> Family and friends
-<h3>  * Save for kids' college education
+<h3>  * <i>Save for kids' college education</i>
 <h3>  * ~~Throw a surprise party for a loved one~~
 
 <h2> Travel and Adventure
